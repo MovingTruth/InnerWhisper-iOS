@@ -1,5 +1,7 @@
 # Inner Whisper for iOS
 
+[![iOS CI](https://github.com/MovingTruth/InnerWhisper-iOS/actions/workflows/ios.yml/badge.svg)](https://github.com/MovingTruth/InnerWhisper-iOS/actions/workflows/ios.yml)
+
 Inner Whisper is a shipped, offline-first iPhone and iPad application built
 with SwiftUI. This public portfolio edition demonstrates the production
 architecture while replacing the full curated catalogue and licensed audio
