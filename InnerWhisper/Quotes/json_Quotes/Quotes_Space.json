@@ -1,0 +1,25 @@
+{
+  "quotes": [
+    {
+      "id": "c8993155-4ca2-4bd7-8e30-e1b94da5c001",
+      "displayNumber": 1,
+      "text": "Distance changes scale, not meaning.",
+      "author": "Inner Whisper",
+      "category": "Space"
+    },
+    {
+      "id": "c8993155-4ca2-4bd7-8e30-e1b94da5c002",
+      "displayNumber": 2,
+      "text": "Wonder begins where certainty loosens its grip.",
+      "author": "Inner Whisper",
+      "category": "Space"
+    },
+    {
+      "id": "c8993155-4ca2-4bd7-8e30-e1b94da5c003",
+      "displayNumber": 3,
+      "text": "You are allowed to leave room for what you do not yet understand.",
+      "author": "Inner Whisper",
+      "category": "Space"
+    }
+  ]
+}

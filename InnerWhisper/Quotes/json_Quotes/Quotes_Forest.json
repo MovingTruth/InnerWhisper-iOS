@@ -1,0 +1,25 @@
+{
+  "quotes": [
+    {
+      "id": "b78a2044-5f89-43c1-bf75-c6057b63b001",
+      "displayNumber": 1,
+      "text": "Growth is quiet work before it becomes visible.",
+      "author": "Inner Whisper",
+      "category": "Forest"
+    },
+    {
+      "id": "b78a2044-5f89-43c1-bf75-c6057b63b002",
+      "displayNumber": 2,
+      "text": "Roots do not hurry, yet they hold entire forests.",
+      "author": "Inner Whisper",
+      "category": "Forest"
+    },
+    {
+      "id": "b78a2044-5f89-43c1-bf75-c6057b63b003",
+      "displayNumber": 3,
+      "text": "Rest is part of the season, not an interruption of it.",
+      "author": "Inner Whisper",
+      "category": "Forest"
+    }
+  ]
+}

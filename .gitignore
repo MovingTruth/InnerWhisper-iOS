@@ -1,0 +1,19 @@
+# Local / CI archives and derived data
+build/
+*.xcarchive
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+.derivedData/
+
+# Local tooling and secrets
+.env
+.env.*
+.claude/
+.agents/

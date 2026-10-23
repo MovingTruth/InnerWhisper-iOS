@@ -1,0 +1,25 @@
+{
+  "quotes": [
+    {
+      "id": "a6c17e93-6d57-4e28-a0d3-f97bbeb8a001",
+      "displayNumber": 1,
+      "text": "Small moments of attention can change the shape of a day.",
+      "author": "Inner Whisper",
+      "category": "Default"
+    },
+    {
+      "id": "a6c17e93-6d57-4e28-a0d3-f97bbeb8a002",
+      "displayNumber": 2,
+      "text": "Clarity often arrives after the noise has been given room to settle.",
+      "author": "Inner Whisper",
+      "category": "Default"
+    },
+    {
+      "id": "a6c17e93-6d57-4e28-a0d3-f97bbeb8a003",
+      "displayNumber": 3,
+      "text": "A gentler pace can still carry you somewhere true.",
+      "author": "Inner Whisper",
+      "category": "Default"
+    }
+  ]
+}
